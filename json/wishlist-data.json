@@ -239,6 +239,22 @@
             "id": "86y4QiHDJv7j",
             "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/86y4QiHDJv7j.png",
             "title": ""
+        },
+        {
+            "goal": 3,
+            "total": 0,
+            "contributors": 0,
+            "address": "79Ce75hUSDRDNppWZToZ8f3rAz7sFv4Dba1vPNXoiJBaai4SKuCFoeQPptvdA7BxVb4JZhLcBUSCHP3tnYWzqjcvCGQk9EP",
+            "description": "Stagenet Wallet [test]",
+            "percent": 0,
+            "type": "equip",
+            "created_date": "2021-09-12 03:24:04.827422",
+            "modified_date": "2021-09-12 03:24:04.827447",
+            "author_name": "",
+            "author_email": "",
+            "id": "79Ce75hUSDRD",
+            "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/86y4QiHDJv7j.png",
+            "title": ""
         }
     ],
     "metadata": {
