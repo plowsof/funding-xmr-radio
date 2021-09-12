@@ -16,6 +16,8 @@ My wishlist would be that if you're reading this, then continue supporting the M
 
 The other item would be a 2nd monitor or something!, it is so difficult to do these kinds of things with the tiny one i have :< And some coffee. who doesnt like coffee? 
 
++0.01 XMR Thank you anonymous, thats free power for my node for over 30 days :') 
+
 ```
 86aSNJwDYC2AshDDvbGgtQ17RWspmKNwNXAqdFiFF2Db91v9PC26uDxffD9ZYfcMjvJpuKJepsQtELAdmXVk85E1DsuL6rG
 ```
