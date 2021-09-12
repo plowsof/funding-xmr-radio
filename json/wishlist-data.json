@@ -2,14 +2,14 @@
       "wishlist": [
             {
                   "goal": 3,
-                  "total": 10.0,
-                  "contributors": 1,
+                  "total": 20.0,
+                  "contributors": 2,
                   "address": "79Ce75hUSDRDNppWZToZ8f3rAz7sFv4Dba1vPNXoiJBaai4SKuCFoeQPptvdA7BxVb4JZhLcBUSCHP3tnYWzqjcvCGQk9EP",
                   "description": "Stagenet Wallet [test]",
                   "percent": 100,
                   "type": "equip",
                   "created_date": "2021-09-12 03:24:04.827422",
-                  "modified_date": "2021-09-12 04:21:38.976370",
+                  "modified_date": "2021-09-12 04:25:25.595841",
                   "author_name": "",
                   "author_email": "",
                   "id": "79Ce75hUSDRD",
@@ -260,7 +260,7 @@
       "metadata": {
             "total": 0,
             "contributors": 0,
-            "modified": "2021-09-12 04:21:38.976446",
+            "modified": "2021-09-12 04:25:25.595917",
             "title": "",
             "description": "",
             "image": "",
