@@ -12,6 +12,7 @@ repo_name =  "funding-xmr-radio"
 repo_dir = "qr_codes"
 cryptocompare.cryptocompare._set_api_key_parameter("-")
 wishes =[]
+percent_buffer = 0.05
 
 def getPrice(crypto,offset):
     data = cryptocompare.get_price(str(crypto), currency='USD', full=0)
@@ -63,9 +64,10 @@ def wishlist_add_new(goal,desc,address,w_type):
     global repo_name
     global repo_dir
     global wishes
-    test = getPrice("XMR",0.05)
+    global percent_buffer
+    test = getPrice("XMR",float(percent_buffer))
     print(f"test = {test}")
-    goal = goal / getPrice("XMR",0.05)
+    goal = goal / getPrice("XMR",float(percent_buffer))
     app_this = { 
                 "goal":goal,
                 "total":0,
@@ -122,13 +124,12 @@ total = {
 }
 
 the_wishlist = {}
-the_wishlist["wishlist"] = wishes[0]
-the_wishlist["metadata"] = wishes[1]
+the_wishlist["wishlist"] = wishes
+the_wishlist["metadata"] = total
 
 
 
 
 with open("wishlist-data.json", "w+") as f:
     json.dump(the_wishlist,f, indent=4)
-
 
