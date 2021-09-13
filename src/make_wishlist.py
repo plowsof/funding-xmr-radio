@@ -12,6 +12,7 @@ git_username = "plowsof"
 
 repo_name =  "funding-xmr-radio"
 repo_dir = "json"
+git_token = "hunterpassword123
 cryptocompare.cryptocompare._set_api_key_parameter("-")
 wishes =[]
 percent_buffer = 0.05
