@@ -17,6 +17,22 @@
                   "title": "XMR.radio donation"
             },
             {
+                  "goal": 0.05497212279080782,
+                  "total": 0.055,
+                  "contributors": 2,
+                  "address": "86K8gZC2roNAiVZ9boVWQVUX2bU6KCecAbBM1rhpLZGHHtBQUChukoXXP3SWjaYSsCgCUGaFvwAjkJZAhPeZK88zN46msfz",
+                  "description": "TRS to XLR breakout cable, 3.3 feet",
+                  "percent": 100,
+                  "type": "equip",
+                  "created_date": "2021-09-12 03:24:02.230519",
+                  "modified_date": "2021-10-14 16:33:57.081098",
+                  "author_name": "",
+                  "author_email": "",
+                  "id": "86K8gZC2roNA",
+                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/86K8gZC2roNA.png",
+                  "title": "XMR.radio donation"
+            },
+            {
                   "goal": 0.7611524694111852,
                   "total": 0.760568775615,
                   "contributors": 3,
@@ -30,22 +46,6 @@
                   "author_email": "",
                   "id": "8B98rGurDboU",
                   "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/8B98rGurDboU.png",
-                  "title": "XMR.radio donation"
-            },
-            {
-                  "goal": 0.05497212279080782,
-                  "total": 0.052,
-                  "contributors": 1,
-                  "address": "86K8gZC2roNAiVZ9boVWQVUX2bU6KCecAbBM1rhpLZGHHtBQUChukoXXP3SWjaYSsCgCUGaFvwAjkJZAhPeZK88zN46msfz",
-                  "description": "TRS to XLR breakout cable, 3.3 feet",
-                  "percent": 94.59339999999999,
-                  "type": "equip",
-                  "created_date": "2021-09-12 03:24:02.230519",
-                  "modified_date": "2021-09-24 23:56:04.835435",
-                  "author_name": "",
-                  "author_email": "",
-                  "id": "86K8gZC2roNA",
-                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/86K8gZC2roNA.png",
                   "title": "XMR.radio donation"
             },
             {
@@ -244,7 +244,7 @@
       "metadata": {
             "total": 0.001112148225,
             "contributors": 1,
-            "modified": "2021-10-14 16:33:11.135562",
+            "modified": "2021-10-14 16:33:57.081232",
             "title": "",
             "description": "",
             "image": "",
