@@ -17,12 +17,12 @@
                   "title": "XMR.radio donation"
             },
             {
-                  "goal": 0.7611524694111852,
-                  "total": 0.760568775615,
+                  "goal": 0.761,
+                  "total": 0.761,
                   "contributors": 3,
                   "address": "8B98rGurDboU2XvfrqFJuA84E3U9J2f2cZPi63Cjnq9uec92V7J3NqRJHqA7h3i3K5Lh3fE7ZTxeRc6hk4UyovcmUdvobG3",
                   "description": "Mixcloud Pro annual subscription (2021-2022)",
-                  "percent": 99.92331447119436,
+                  "percent":100,
                   "type": "subs",
                   "created_date": "2021-09-12 03:23:59.436805",
                   "modified_date": "2021-10-14 16:32:13.616168",
@@ -33,7 +33,7 @@
                   "title": "XMR.radio donation"
             },
             {
-                  "goal": 0.05497212279080782,
+                  "goal": 0.055,
                   "total": 0.055,
                   "contributors": 2,
                   "address": "86K8gZC2roNAiVZ9boVWQVUX2bU6KCecAbBM1rhpLZGHHtBQUChukoXXP3SWjaYSsCgCUGaFvwAjkJZAhPeZK88zN46msfz",
