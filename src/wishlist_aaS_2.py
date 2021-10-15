@@ -93,6 +93,11 @@ def main(tx_id,conf=0,multi=0):
             time.sleep(30)
             uploadtogit("wishlist-data.json","wishlist-data.json")
             os.remove("batched")
+        else:
+            #quick hack to fix an issue where old data is uploaded after the 30 second wait
+            time.sleep(240)
+            time.sleep(random.randint(1,60))
+            main(tx_id,1,0)
 
 def dump_json(wishlist):
     with FileLock("wishlist-data.json.lock"):
