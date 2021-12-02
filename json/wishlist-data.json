@@ -49,12 +49,12 @@
                   "title": "XMR.radio donation"
             },
             {
-                  "goal": 0.2029739918429827,
-                  "total": 0.20289219390399998,
+                  "goal": 0.2039739918429827,
+                  "total": 0.20389219390399998,
                   "contributors": 2,
                   "address": "87LxtQdft3658BogUHXekShCLzbeueL2P1H3dw3h824yMsvPXdbnYBcCphvbhiVu33HNnFGx7nU7eFEMbMpRU6eWNw5pRC5",
                   "description": "ProtonMail Plus renewal (2022-2023)",
-                  "percent": 99.95970028561787,
+                  "percent": 100,
                   "type": "subs",
                   "created_date": "2021-09-12 03:24:00.185754",
                   "modified_date": "2021-11-17 17:23:45.112604",
@@ -244,7 +244,7 @@
       "metadata": {
             "total": 0.001112148225,
             "contributors": 1,
-            "modified": "2021-11-29 13:25:27.205774",
+            "modified": "2021-11-29 13:25:27.205775",
             "title": "",
             "description": "",
             "image": "",
