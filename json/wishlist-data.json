@@ -65,6 +65,22 @@
                   "title": "XMR.radio donation"
             },
             {
+                  "goal": 1.0569863627619476,
+                  "total": 1.056632960583,
+                  "contributors": 2,
+                  "address": "86VTYd17e4y4V79c82GWb8jSWz1K2tD3BSPAJhHrjAwYaQNkq8wsQw7PAsyWT2zPBZa3s4B8t5K8Y1ntJCWYUw5i2Ji33ig",
+                  "description": "Samsung 2TB T5 Portable SSD",
+                  "percent": 99.96656511461282,
+                  "type": "equip",
+                  "created_date": "2021-09-12 03:24:04.465212",
+                  "modified_date": "2022-02-27 23:22:48.861215",
+                  "author_name": "",
+                  "author_email": "",
+                  "id": "86VTYd17e4y4",
+                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/86VTYd17e4y4.png",
+                  "title": "XMR.radio donation"
+            },
+            {
                   "goal": 6.341918176571686,
                   "total": 1.00599776994,
                   "contributors": 7,
@@ -110,22 +126,6 @@
                   "author_email": "",
                   "id": "86xE6BVX3c32",
                   "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/86xE6BVX3c32.png",
-                  "title": "XMR.radio donation"
-            },
-            {
-                  "goal": 1.0569863627619476,
-                  "total": 0.046632960583,
-                  "contributors": 1,
-                  "address": "86VTYd17e4y4V79c82GWb8jSWz1K2tD3BSPAJhHrjAwYaQNkq8wsQw7PAsyWT2zPBZa3s4B8t5K8Y1ntJCWYUw5i2Ji33ig",
-                  "description": "Samsung 2TB T5 Portable SSD",
-                  "percent": 4.411879114612813,
-                  "type": "equip",
-                  "created_date": "2021-09-12 03:24:04.465212",
-                  "modified_date": "2021-12-28 10:10:07.053721",
-                  "author_name": "",
-                  "author_email": "",
-                  "id": "86VTYd17e4y4",
-                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/86VTYd17e4y4.png",
                   "title": "XMR.radio donation"
             },
             {
@@ -244,7 +244,7 @@
       "metadata": {
             "total": 0.398430148225,
             "contributors": 4,
-            "modified": "2022-01-19 16:18:17.980704",
+            "modified": "2022-02-27 23:22:48.861355",
             "title": "",
             "description": "",
             "image": "",
