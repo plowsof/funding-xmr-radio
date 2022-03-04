@@ -97,6 +97,22 @@
                   "title": "XMR.radio donation"
             },
             {
+                  "goal": 1.0147069082514697,
+                  "total": 0.594568775615,
+                  "contributors": 3,
+                  "address": "85Dw6FurwyFgPbnsnW4v3cUTVeAkkvEw2jHvvaJ5PiyRGVvp4GcHyAQ71YTVC6637AMjrcP8yKdcoCHosWNEY1hz3HUXBeZ",
+                  "description": "OVH US VPS annual (2022-2023)",
+                  "percent": 58.595124442343014,
+                  "type": "subs",
+                  "created_date": "2021-09-12 03:24:00.519789",
+                  "modified_date": "2022-03-04 16:03:41.633249",
+                  "author_name": "",
+                  "author_email": "",
+                  "id": "85Dw6FurwyFg",
+                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/85Dw6FurwyFg.png",
+                  "title": "XMR.radio donation"
+            },
+            {
                   "goal": 6.341918176571686,
                   "total": 3.00599776994,
                   "contributors": 9,
@@ -110,22 +126,6 @@
                   "author_email": "",
                   "id": "8Bxyj1J5KfVW",
                   "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/8Bxyj1J5KfVW.png",
-                  "title": "XMR.radio donation"
-            },
-            {
-                  "goal": 1.0147069082514697,
-                  "total": 0.094568775615,
-                  "contributors": 2,
-                  "address": "85Dw6FurwyFgPbnsnW4v3cUTVeAkkvEw2jHvvaJ5PiyRGVvp4GcHyAQ71YTVC6637AMjrcP8yKdcoCHosWNEY1hz3HUXBeZ",
-                  "description": "OVH US VPS annual (2022-2023)",
-                  "percent": 9.31981194234301,
-                  "type": "subs",
-                  "created_date": "2021-09-12 03:24:00.519789",
-                  "modified_date": "2021-10-14 16:38:54.513620",
-                  "author_name": "",
-                  "author_email": "",
-                  "id": "85Dw6FurwyFg",
-                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/85Dw6FurwyFg.png",
                   "title": "XMR.radio donation"
             },
             {
@@ -244,7 +244,7 @@
       "metadata": {
             "total": 0.398430148225,
             "contributors": 4,
-            "modified": "2022-03-04 15:56:51.591797",
+            "modified": "2022-03-04 16:03:41.633383",
             "title": "",
             "description": "",
             "image": "",
