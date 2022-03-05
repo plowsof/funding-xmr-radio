@@ -81,6 +81,22 @@
                   "title": "XMR.radio donation"
             },
             {
+                  "goal": 0.06765799728099424,
+                  "total": 0.068,
+                  "contributors": 1,
+                  "address": "89kmrkP9ig1B1rvL4pnXJXNcFX9TcUtjLFcsxF88b7fKfE8zr2WfitL3znkqzoxowFUHgWyQusFmoDpn91kf5LezUJrJgri",
+                  "description": "Focusrite Scarlett case",
+                  "percent": 100,
+                  "type": "equip",
+                  "created_date": "2021-09-12 03:24:04.123536",
+                  "modified_date": "2022-03-05 06:39:33.606103",
+                  "author_name": "",
+                  "author_email": "",
+                  "id": "89kmrkP9ig1B",
+                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/89kmrkP9ig1B.png",
+                  "title": "XMR.radio donation"
+            },
+            {
                   "goal": 1.0569863627619476,
                   "total": 1.056632960583,
                   "contributors": 2,
@@ -209,22 +225,6 @@
                   "title": "XMR.radio donation"
             },
             {
-                  "goal": 0.06765799728099424,
-                  "total": 0,
-                  "contributors": 0,
-                  "address": "89kmrkP9ig1B1rvL4pnXJXNcFX9TcUtjLFcsxF88b7fKfE8zr2WfitL3znkqzoxowFUHgWyQusFmoDpn91kf5LezUJrJgri",
-                  "description": "Focusrite Scarlett case",
-                  "percent": 0,
-                  "type": "equip",
-                  "created_date": "2021-09-12 03:24:04.123536",
-                  "modified_date": "2021-09-12 03:24:04.123572",
-                  "author_name": "",
-                  "author_email": "",
-                  "id": "89kmrkP9ig1B",
-                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/89kmrkP9ig1B.png",
-                  "title": "XMR.radio donation"
-            },
-            {
                   "goal": 0.042286248300621394,
                   "total": 0,
                   "contributors": 0,
@@ -244,7 +244,7 @@
       "metadata": {
             "total": 0.398430148225,
             "contributors": 4,
-            "modified": "2022-03-05 01:51:06.274169",
+            "modified": "2022-03-05 06:39:33.606244",
             "title": "",
             "description": "",
             "image": "",
