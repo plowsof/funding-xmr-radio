@@ -63,7 +63,24 @@
                   "id": "83RNVysW2M1j",
                   "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/83RNVysW2M1j.png",
                   "title": "XMR.radio donation"
-            }
+            },
+            {
+            "goal": 1.4269487839542465,
+            "total": 0,
+            "contributors": 0,
+            "address": "896tv2mNUmcGxr7ubBHw5KhfW9iiTGMbcYDkfjfq8pVTUJPGKwpPpvBQaBTfryfNnuQ9L3q1JWLPL5D4Ut1xG74ZGqAzSaG",
+            "description": "Pioneer DJ DDJ-400",
+            "percent": 0,
+            "type": "equip",
+            "created_date": "2022-03-13 18:09:37.908436",
+            "modified_date": "2022-03-13 18:09:37.908528",
+            "author_name": "",
+            "author_email": "",
+            "id": "896tv2mNUmcG",
+            "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/json/896tv2mNUmcG.png",
+            "title": ""
+        }
+
       ],
       "metadata": {
             "total": 0.398430148225,
