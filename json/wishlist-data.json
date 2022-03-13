@@ -33,22 +33,6 @@
                   "title": "XMR.radio donation"
             },
             {
-                  "goal": 1.0147069082514697,
-                  "total": 1.014568775615,
-                  "contributors": 6,
-                  "address": "85Dw6FurwyFgPbnsnW4v3cUTVeAkkvEw2jHvvaJ5PiyRGVvp4GcHyAQ71YTVC6637AMjrcP8yKdcoCHosWNEY1hz3HUXBeZ",
-                  "description": "OVH US VPS annual (2022-2023)",
-                  "percent": 99.986386942343,
-                  "type": "subs",
-                  "created_date": "2021-09-12 03:24:00.519789",
-                  "modified_date": "2022-03-11 01:55:30.294358",
-                  "author_name": "",
-                  "author_email": "",
-                  "id": "85Dw6FurwyFg",
-                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/85Dw6FurwyFg.png",
-                  "title": "XMR.radio donation"
-            },
-            {
                   "goal": 0.12261041808038592,
                   "total": 0.11,
                   "contributors": 2,
