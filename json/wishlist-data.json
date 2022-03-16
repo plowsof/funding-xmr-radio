@@ -17,6 +17,22 @@
                   "title": "XMR.radio donation"
             },
             {
+                  "goal": 0.7188662211105638,
+                  "total": 1.0,
+                  "contributors": 1,
+                  "address": "83RNVysW2M1jPyVSzYJmWRDSQQmAH2aHHhBtoLis7X2nYA6dq752Z9K7vtDkcSgpaxddvc7Jj62rPTMebeNz4jhi4NPzB25",
+                  "description": "Focusrite Scarlett 2i2 2x2 USB Audio Interface (3rd Gen)",
+                  "percent": 100,
+                  "type": "equip",
+                  "created_date": "2021-09-12 03:24:03.735394",
+                  "modified_date": "2022-03-16 00:57:40.228117",
+                  "author_name": "",
+                  "author_email": "",
+                  "id": "83RNVysW2M1j",
+                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/83RNVysW2M1j.png",
+                  "title": "XMR.radio donation"
+            },
+            {
                   "goal": 6.341918176571686,
                   "total": 5.19599776994,
                   "contributors": 12,
@@ -49,22 +65,6 @@
                   "title": "XMR.radio donation"
             },
             {
-                  "goal": 0.7188662211105638,
-                  "total": 0,
-                  "contributors": 0,
-                  "address": "83RNVysW2M1jPyVSzYJmWRDSQQmAH2aHHhBtoLis7X2nYA6dq752Z9K7vtDkcSgpaxddvc7Jj62rPTMebeNz4jhi4NPzB25",
-                  "description": "Focusrite Scarlett 2i2 2x2 USB Audio Interface (3rd Gen)",
-                  "percent": 0,
-                  "type": "equip",
-                  "created_date": "2021-09-12 03:24:03.735394",
-                  "modified_date": "2021-09-12 03:24:03.735419",
-                  "author_name": "",
-                  "author_email": "",
-                  "id": "83RNVysW2M1j",
-                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/83RNVysW2M1j.png",
-                  "title": "XMR.radio donation"
-            },
-            {
                   "goal": 1.4269487839542465,
                   "total": 0,
                   "contributors": 0,
@@ -84,7 +84,7 @@
       "metadata": {
             "total": 0.398430148225,
             "contributors": 4,
-            "modified": "2022-03-16 00:55:43.848947",
+            "modified": "2022-03-16 00:57:40.228240",
             "title": "",
             "description": "",
             "image": "",
