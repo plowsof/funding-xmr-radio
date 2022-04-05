@@ -1,6 +1,22 @@
 {
       "wishlist": [
             {
+                  "goal": 1.9324815473383978,
+                  "total": 10.999,
+                  "contributors": 9,
+                  "address": "85vWUxkpPSw2awQrouD5mkVLyG6voEMQpdD8KZM3TVfPSriBWhX7Au4cdHHgaDQx4bQJoQXgpijtDaLshqLbNjcsN6Vzba9",
+                  "description": "Rode Wireless GO II 2-Person Lavalier Microphone System/Recorder Kit",
+                  "percent": 100,
+                  "type": "equip",
+                  "created_date": "2021-09-12 03:24:01.477884",
+                  "modified_date": "2022-04-05 05:07:36.531175",
+                  "author_name": "",
+                  "author_email": "",
+                  "id": "85vWUxkpPSw2",
+                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/85vWUxkpPSw2.png",
+                  "title": "XMR.radio donation"
+            },
+            {
                   "goal": 6.341918176571686,
                   "total": 6.341918176571686,
                   "contributors": 13,
@@ -14,22 +30,6 @@
                   "author_email": "",
                   "id": "8Bxyj1J5KfVW",
                   "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/8Bxyj1J5KfVW.png",
-                  "title": "XMR.radio donation"
-            },
-            {
-                  "goal": 1.9324815473383978,
-                  "total": 0.999,
-                  "contributors": 8,
-                  "address": "85vWUxkpPSw2awQrouD5mkVLyG6voEMQpdD8KZM3TVfPSriBWhX7Au4cdHHgaDQx4bQJoQXgpijtDaLshqLbNjcsN6Vzba9",
-                  "description": "Rode Wireless GO II 2-Person Lavalier Microphone System/Recorder Kit",
-                  "percent": 51.69518960612691,
-                  "type": "equip",
-                  "created_date": "2021-09-12 03:24:01.477884",
-                  "modified_date": "2022-04-05 02:11:09.485091",
-                  "author_name": "",
-                  "author_email": "",
-                  "id": "85vWUxkpPSw2",
-                  "qr_img_url": "https://raw.githubusercontent.com/plowsof/funding-xmr-radio/main/qr_codes/85vWUxkpPSw2.png",
                   "title": "XMR.radio donation"
             },
             {
@@ -52,7 +52,7 @@
       "metadata": {
             "total": 0.508430148225,
             "contributors": 7,
-            "modified": "2022-04-05 02:11:09.485228",
+            "modified": "2022-04-05 05:07:36.531287",
             "title": "",
             "description": "",
             "image": "",
