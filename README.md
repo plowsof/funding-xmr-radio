@@ -1,3 +1,4 @@
+XMR Radio wishlist fully funded - service discontinued
 # funding-xmr-radio
 
 forked from https://github.com/plowsof/xmr-wishlist-aaS/
@@ -12,7 +13,7 @@ forked from https://github.com/plowsof/xmr-wishlist-aaS/
 
 I will be updating the original wishlist github with this new one shortly. 
 
-## XMR Radio wishlist fully funded - service discontinued (for now)
+My personal donation address:
 ```
 86aSNJwDYC2AshDDvbGgtQ17RWspmKNwNXAqdFiFF2Db91v9PC26uDxffD9ZYfcMjvJpuKJepsQtELAdmXVk85E1DsuL6rG
 ```
